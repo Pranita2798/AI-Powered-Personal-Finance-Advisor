@@ -124,18 +124,3 @@ The application includes simulated AI features that demonstrate:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Lucide React](https://lucide.dev/) for beautiful icons
-- [Tailwind CSS](https://tailwindcss.com/) for styling
-- [React](https://reactjs.org/) team for the amazing framework
-- Financial data visualization inspired by leading fintech applications
-
-## 📞 Support
-
-For support, email support@financeadvisor.com or open an issue on GitHub.
-
----
-
-Built with ❤️ for better financial wellness
